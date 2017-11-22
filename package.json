@@ -1,0 +1,24 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "express app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gamingumar/expressjs.git"
+  },
+  "keywords": [
+    "express",
+    "expressjs",
+    "nodejs"
+  ],
+  "author": "gamingumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gamingumar/expressjs/issues"
+  },
+  "homepage": "https://github.com/gamingumar/expressjs#readme"
+}
